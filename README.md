@@ -16,7 +16,6 @@ Live App: https://mutual-fund-return-analyzer-qjnvzpmjtf2ghttcs6tuaf.streamlit.a
 - Goal-based financial planning
 - Retirement planner
 - Interactive growth charts
-- CSV report download
 - Mobile-installable Progressive Web App (PWA)
 
 ## 🛠 Tech Stack
